@@ -1,0 +1,73 @@
+
+body {
+  font-family: "Avenir Next";
+}
+
+.header {
+  height: 100px;
+  font-family: serif;
+  background-image: url("20180226_113556.jpg");
+}
+
+.header-logo {
+  float: left;
+  font-size: 40px;
+  padding: 20px;
+  color: #FFF;
+}
+
+.header-list {
+  float: left;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+li {
+  list-style: none;
+  color: #FFF;
+}
+
+
+.main {
+  height: 600px;
+  background-image: url("20180226_113556.jpg");
+  border: 1px solid #dee7ec;
+}
+
+h1 {
+  color: #FFF;
+  font-size: 40px;
+  letter-spacing: 10px;
+  padding: 20px;
+  font-family: serif;
+}
+
+p {
+  color: #FFF;
+  padding: 20px;
+  align: 0 auto;
+  text-align: center;
+  font-family: cursive;
+}
+
+.footer {
+  height: 120px;
+  background-image: url("20180226_113556.jpg");
+  color: #fff;
+  padding: 30px;
+}
+
+.footer-logo {
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  margin-bottom: 15px;
+}
